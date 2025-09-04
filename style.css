@@ -1,0 +1,10 @@
+html {
+    background-color: black;
+    color: white;
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+ol,ul {
+    list-style-type: disc;
+}
